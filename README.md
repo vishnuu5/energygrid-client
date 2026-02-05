@@ -15,9 +15,17 @@ This is a Node.js client application that fetches telemetry data for 500 solar i
 1. Start the mock API server:
 
 ```bash
-   cd mock-api
-   npm install
-   npm start
+cd mock-api
+npm install
+npm start
+```
+
+2. Start the energygrid-client server
+
+```bash
+cd energygrid-client
+npm install
+npm start
 ```
 
 ## GitHub Link
